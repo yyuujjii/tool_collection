@@ -1,0 +1,1 @@
+web: gunicorn newapp_app1.wsgi
